@@ -23,7 +23,7 @@ HCI and UI/UX innovation -- graphical interfaces, interaction design, and produc
 </p>
 
 <p align="center">
-<sub>Shell and CLI standards live at <a href="https://github.com/openshellorg">openshellorg</a> -- sibling org, not a merge.</sub>
+<sub>Shell and CLI standards live at <a href="https://github.com/openshellorg">openshellorg</a>.</sub>
 </p>
 
 ---
@@ -36,7 +36,7 @@ HCI and UI/UX innovation -- graphical interfaces, interaction design, and produc
 | [`assets/logo-mark-512.png`](assets/logo-mark-512.png) | Org avatar upload (512px) |
 | [`assets/logo-wordmark.svg`](assets/logo-wordmark.svg) | Wordmark |
 
-Upload `logo-mark-512.png` at [Organization profile settings](https://github.com/organizations/HCI-Nerdz/settings/profile) (GitHub has no API for org avatars).
+Upload `logo-mark-512.png` at [Organization profile settings](https://github.com/organizations/HCI-Nerdz/settings/profile).
 
 ### What we own
 
@@ -48,7 +48,7 @@ Upload `logo-mark-512.png` at [Organization profile settings](https://github.com
 
 ### Partner organizations
 
-| Org | Altitude |
+| Org | Focus |
 | --- | --- |
 | [OpenShellOrg](https://openshellorg.github.io/) &middot; [Docs](https://openshellorg.github.io/docs/) &middot; [GitHub](https://github.com/openshellorg) | How CLIs and shells speak and compose |
 | [DevCentr](https://devcentr.org/) &middot; [Docs](https://docs.devcentr.org/) &middot; [GitHub](https://github.com/dev-centr) | Environments, orchestration, toolchain management |
@@ -57,5 +57,3 @@ Upload `logo-mark-512.png` at [Organization profile settings](https://github.com
 | [formatte](https://github.com/formatte) | Formatting ecosystem |
 | [LinxPhotos](https://github.com/LinxPhotos) | Photo / portfolio hosting |
 | [FoodTruckNerdz](https://github.com/FoodTruckNerdz) | Product domain (food trucks) |
-
-Same enemy. Different altitudes.
