@@ -1,0 +1,6 @@
+= Organization bootstrap
+:revdate: 2026-08-01
+
+Created the HCI-Nerdz org profile README, logo mark, and partner table.
+
+Philosophy home: honest surfaces, lower cognitive tax; shell/CLI remains openshellorg.

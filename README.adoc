@@ -1,0 +1,14 @@
+= HCI-Nerdz `.github`
+:toc:
+
+Organization profile and community health files for link:https://github.com/HCI-Nerdz[HCI-Nerdz].
+
+== Profile
+
+The public org landing page is `profile/README.md` (GitHub requires Markdown for org profiles).
+
+Logo sources live under `profile/assets/`.
+
+== Changelog
+
+See link:CHANGELOG.adoc[CHANGELOG.adoc].

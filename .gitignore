@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.adoc
+!CHANGELOG.adoc
+!changelog-details/
+!changelog-details/**
+!profile/
+!profile/**
+!MEMORIES.md
