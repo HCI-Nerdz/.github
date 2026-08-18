@@ -1,0 +1,7 @@
+= Larger eye on org mark — changelog detail
+:description: Org avatar keeps the padded tile; the eye glyph is larger and thicker.
+
+== Changed
+
+* Updated `profile/assets/logo-mark.svg` and `logo-wordmark.svg` with a larger eye, thicker stroke, and bigger iris/pupil/glint.
+* Regenerated `logo-mark-512.png` from the padded mark (upload still has to be done by hand in org profile settings).

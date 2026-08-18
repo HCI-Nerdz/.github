@@ -1,5 +1,10 @@
 = Changelog
 
+== 2026-08-18 — Larger eye on org mark
+
+* Org avatar SVG uses a larger almond, thicker outline, and bigger iris/pupil so the eye reads at small sizes. Rounded-square tile kept for GitHub/social.
+* link:changelog-details/2026-08-18%20-%20larger-eye-on-org-mark.adoc[Details]
+
 == 2026-08-01 — Organization bootstrap
 
 * link:changelog-details/2026-08-01%20-%20organization%20bootstrap.adoc[Details]

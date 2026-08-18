@@ -32,9 +32,11 @@ HCI and UI/UX innovation -- graphical interfaces, interaction design, and produc
 
 | File | Use |
 | --- | --- |
-| [`assets/logo-mark.svg`](assets/logo-mark.svg) | Org mark (vector) |
+| [`assets/logo-mark.svg`](assets/logo-mark.svg) | Org mark (padded rounded square, vector) |
 | [`assets/logo-mark-512.png`](assets/logo-mark-512.png) | Org avatar upload (512px) |
-| [`assets/logo-wordmark.svg`](assets/logo-wordmark.svg) | Wordmark |
+| [`assets/logo-wordmark.svg`](assets/logo-wordmark.svg) | Wordmark (transparent eye) |
+
+The site header uses a transparent eye (`HCI-Nerdz.github.io` `public/logo-mark.svg`), not this padded tile.
 
 Upload `logo-mark-512.png` at [Organization profile settings](https://github.com/organizations/HCI-Nerdz/settings/profile).
 
