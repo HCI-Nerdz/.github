@@ -1,4 +1,4 @@
-*
+﻿*
 !.gitignore
 !README.adoc
 !CHANGELOG.adoc
@@ -6,4 +6,6 @@
 !changelog-details/**
 !profile/
 !profile/**
-!MEMORIES.md
+!AGENTS.md
+!.gitmodules
+!agent-rules
