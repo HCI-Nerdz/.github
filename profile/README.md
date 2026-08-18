@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<strong>Honest surfaces. Lower cognitive tax.</strong>
+<strong>Discoverable surfaces. Lower cognitive tax.</strong>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Upload `logo-mark-512.png` at [Organization profile settings](https://github.com
 | Layer | HCI Nerdz |
 | --- | --- |
 | Surfaces | Themes, previews, dialogs, IDE chrome, desktop metaphors |
-| Honesty | Severity, settings truth, discoverability, product representation |
+| Discoverability | Severity, settings truth, discoverability, product representation |
 | Attention | Tools that do not spend your brain for you |
 
 ### Partner organizations
