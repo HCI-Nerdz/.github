@@ -1,5 +1,10 @@
 = Changelog
 
+== 2026-08-18 — Desktop Tooling sibling
+
+* Partner table and pitch line point at Desktop-Tooling for OS-level Explorer/windowing utilities.
+* link:changelog-details/2026-08-18%20-%20desktop-tooling-sibling.adoc[Details]
+
 == 2026-08-18 — Larger eye on org mark
 
 * Org avatar SVG uses a larger almond, thicker outline, and bigger iris/pupil so the eye reads at small sizes. Rounded-square tile kept for GitHub/social.

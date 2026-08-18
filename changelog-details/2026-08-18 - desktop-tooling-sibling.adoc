@@ -1,0 +1,4 @@
+= Desktop Tooling sibling
+:date: 2026-08-18
+
+HCI Nerdz profile now names Desktop-Tooling as the sibling for OS-level desktop utilities, so Explorer gadgets do not pile up under the HCI banner.

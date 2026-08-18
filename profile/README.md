@@ -23,7 +23,10 @@ HCI and UI/UX innovation -- graphical interfaces, interaction design, and produc
 </p>
 
 <p align="center">
-<sub>Shell and CLI standards live at <a href="https://github.com/openshellorg">openshellorg</a>.</sub>
+<sub>
+OS utilities live at <a href="https://github.com/Desktop-Tooling">Desktop-Tooling</a>.
+Shell and CLI standards live at <a href="https://github.com/openshellorg">openshellorg</a>.
+</sub>
 </p>
 
 ---
@@ -52,6 +55,7 @@ Upload `logo-mark-512.png` at [Organization profile settings](https://github.com
 
 | Org | Focus |
 | --- | --- |
+| [Desktop Tooling](https://desktop-tooling.github.io/) &middot; [Docs](https://desktop-tooling.github.io/docs/) &middot; [GitHub](https://github.com/Desktop-Tooling) | OS-level desktop utilities: Explorer, shell extensions, theming, launchers |
 | [OpenShellOrg](https://openshellorg.github.io/) &middot; [Docs](https://openshellorg.github.io/docs/) &middot; [GitHub](https://github.com/openshellorg) | How CLIs and shells speak and compose |
 | [DevCentr](https://devcentr.org/) &middot; [Docs](https://docs.devcentr.org/) &middot; [GitHub](https://github.com/dev-centr) | Environments, orchestration, toolchain management |
 | [antora-supplemental](https://github.com/antora-supplemental) &middot; [Valentus](https://github.com/antora-supplemental/valentus-theme) | AsciiDoc / Antora publishing UX |
