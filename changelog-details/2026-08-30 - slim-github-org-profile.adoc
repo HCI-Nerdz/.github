@@ -1,0 +1,7 @@
+= Slim GitHub org profile — changelog detail
+:description: Org profile README keeps only the mark and pitch.
+
+== Changed
+
+* Removed logo-asset index, “what we own”, partner table, Desktop-Tooling/OpenShellOrg asides, and Site/Docs/News links from `profile/README.md`.
+* Public org profile now shows the mark, tagline, and one-sentence pitch. Logo files stay under `profile/assets/`. Partner titles and ownership copy live on the site (footer / homepage).

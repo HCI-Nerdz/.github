@@ -1,5 +1,10 @@
 = Changelog
 
+== 2026-08-30 — Slim GitHub org profile
+
+* Profile README is mark + pitch only; logo index, ownership table, partners, and Site/Docs/News links dropped (site URL lives in GitHub About; rest is on the site).
+* link:changelog-details/2026-08-30%20-%20slim-github-org-profile.adoc[Details]
+
 == 2026-08-30 — Single logo on org profile
 
 * Org profile README shows only the mark; wordmark asset remains in the repo for other uses.
