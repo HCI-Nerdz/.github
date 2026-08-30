@@ -1,5 +1,10 @@
 = Changelog
 
+== 2026-08-30 — Single logo on org profile
+
+* Org profile README shows only the mark; wordmark asset remains in the repo for other uses.
+* link:changelog-details/2026-08-30%20-%20single-logo-on-org-profile.adoc[Details]
+
 == 2026-08-18 — Desktop Tooling sibling
 
 * Partner table and pitch line point at Desktop-Tooling for OS-level Explorer/windowing utilities.

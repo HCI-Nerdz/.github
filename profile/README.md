@@ -2,10 +2,6 @@
   <img src="assets/logo-mark.svg" width="160" height="160" alt="HCI Nerdz" />
 </p>
 
-<p align="center">
-  <img src="assets/logo-wordmark.svg" width="360" alt="HCI Nerdz wordmark" />
-</p>
-
 ---
 
 <p align="center">

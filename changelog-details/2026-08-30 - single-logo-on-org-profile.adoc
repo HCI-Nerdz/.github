@@ -1,0 +1,7 @@
+= Single logo on org profile — changelog detail
+:description: Profile README drops the wordmark image; asset files stay.
+
+== Changed
+
+* Removed the second hero image (`logo-wordmark.svg`) from `profile/README.md` so the public org profile shows only `logo-mark.svg`.
+* Left wordmark and other logo files under `profile/assets/` unchanged for site and maintainer use.
