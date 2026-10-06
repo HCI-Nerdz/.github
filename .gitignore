@@ -9,3 +9,8 @@
 !AGENTS.md
 !.gitmodules
 !AGENT-RULES.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/encoding-guard.yml
+!/.editorconfig
+!/.gitattributes
